@@ -1,4 +1,12 @@
-### Hi there 👋
+![0FxcqDTG](https://user-images.githubusercontent.com/80198387/168483640-7f28bb24-43be-4fcb-ae3c-8f63e95910f5.jpg)<br>
+
+### 所属
+🔭National Institute of Technology, Toyama College E3<br>
+⚡富山高専本郷MechaTech
+
+### 近況
+🤔モータードライバの開発、電源基板の開発<br>
+💬C++,Python,C# チョットデキル<br>
 
 <!--
 **Issaimaru/Issaimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
