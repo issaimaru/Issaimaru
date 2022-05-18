@@ -6,7 +6,7 @@
 
 ### 近況
 🤔モータードライバの開発、電源基板の開発<br>
-💬C++,Python,C# チョットデキル<br> 
+💬C++,Python,C#(noob)<br> 
 <!--
 **Issaimaru/Issaimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
