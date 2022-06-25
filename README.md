@@ -5,7 +5,7 @@
 ⚡富山高専本郷MechaTech
 
 ### 近況
-🤔モータードライバの開発、電源基板の開発<br>
+🌱モータードライバの開発、電源基板の開発<br>
 💬C++,Python,C#,$\LaTeX$(noob)<br>
 <!--
 **Issaimaru/Issaimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
