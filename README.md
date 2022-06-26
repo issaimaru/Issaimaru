@@ -12,7 +12,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&theme=tokyonight
 )](https://github.com/issaimaru/github-readme-stats)
 
-### 🔥GitHub Streak<br>
+### :octocat:GitHub Streak<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=issaimaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
 
 <!--
