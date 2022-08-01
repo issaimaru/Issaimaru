@@ -6,7 +6,7 @@
 
 ### 近況
 🌱モータードライバの開発、電源基板の開発<br>
-💬C++,Python,C#,$\LaTeX$(noob)<br>
+💬C++,Python,C#, $\LaTeX$(noob)<br>
 
 ### :octocat:GitHub Status<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&theme=tokyonight
