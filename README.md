@@ -1,4 +1,4 @@
-![0FxcqDTG](https://user-images.githubusercontent.com/80198387/168483640-7f28bb24-43be-4fcb-ae3c-8f63e95910f5.jpg)<br>
+![8Q3N9re-1-728x411](https://user-images.githubusercontent.com/80198387/182848722-3bbe87f1-87fd-4208-aa24-aa0816c10c3d.jpg)
 
 ### 所属
 🔭National Institute of Technology, Toyama College E3<br>
