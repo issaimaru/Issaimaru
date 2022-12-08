@@ -5,7 +5,7 @@
 ⚡富山高専本郷MechaTech
 
 ### 近況
-🌱モータードライバの開発、電源基板の開発<br>
+🌱BLDCMD，電源基板，その他ちっちゃくてかわいい回路の開発<br>
 💬C++,Python,C#, $\LaTeX$(noob)<br>
 
 ### :octocat:GitHub Status<br>
