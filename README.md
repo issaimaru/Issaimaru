@@ -1,4 +1,4 @@
-![8Q3N9re-1-728x411](https://user-images.githubusercontent.com/80198387/182848722-3bbe87f1-87fd-4208-aa24-aa0816c10c3d.jpg)
+![image](https://user-images.githubusercontent.com/80198387/208288655-420143b1-5ae1-4221-a36f-430b0db92d70.png)
 
 ### 所属
 🔭National Institute of Technology, Toyama College E3<br>
@@ -7,6 +7,7 @@
 ### 近況
 🌱BLDCMD，電源基板，その他ちっちゃくてかわいい回路の開発<br>
 💬C++,Python,C#, $\LaTeX$(noob)<br>
+🤔1枚の基板開発にEagleとKiCadを両方使ってるので無宗教です...
 
 ### :octocat:GitHub Status<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&theme=tokyonight)](https://github.com/issaimaru/github-readme-stats)
