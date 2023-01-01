@@ -5,9 +5,8 @@
 ⚡富山高専本郷MechaTech
 
 ### 近況
-🌱BLDCMD，電源基板，その他ちっちゃくてかわいい回路の開発<br>
+🌱BLDCMD，電源基板とか作ってます<br>
 💬C++,Python,C#, $\LaTeX$(noob)<br>
-🤔1枚の基板開発にEagleとKiCadを両方使ってるので無宗教です...
 
 ### :octocat:GitHub Status<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&theme=tokyonight)](https://github.com/issaimaru/github-readme-stats)
