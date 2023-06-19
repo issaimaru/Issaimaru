@@ -1,15 +1,15 @@
 ![image](https://user-images.githubusercontent.com/80198387/208290390-8e3c5794-e48b-4616-997a-c84f324020ba.png)
 
 ### 所属
-🔭National Institute of Technology, Toyama College E3<br>
+🔭National Institute of Technology, Toyama College E4<br>
 ⚡富山高専本郷MechaTech
 
 ### 近況
 🌱BLDCMD，電源基板とか作ってます<br>
-💬C++,Python,C#, $\LaTeX$(noob)<br>
+💬KiCad，Eagle，C++,Python,C#, $\LaTeX$(noob)<br>
 
 ### :octocat:GitHub Status<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&theme=tokyonight)](https://github.com/issaimaru/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issaimaru&theme=tokyonight)](https://github.com/Issaimaru/github-readme-stats)
 
 ### :octocat:GitHub Streak<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=issaimaru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
