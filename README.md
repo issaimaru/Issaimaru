@@ -5,7 +5,7 @@
 ⚡富山高専本郷MechaTech
 
 ### 近況
-🌱編入受験がヤバいわよっ！なため開発の頻度落ちます(~2023年9月)
+🌱編入受験がヤバいわよっ！なため開発の頻度落ちます(~2024年9月)
 
 ### :octocat:GitHub Status<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issaimaru&theme=tokyonight)](https://github.com/Issaimaru/github-readme-stats)
