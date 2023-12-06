@@ -1,4 +1,6 @@
-![maxresdefault](https://github.com/Issaimaru/Issaimaru/assets/80198387/bf552d48-2cb8-4d5f-a051-20a1f474a1c8)
+![-taickx](https://github.com/Issaimaru/Issaimaru/assets/80198387/0c7e0bec-939b-4d69-8962-8463aeaaf279)
+<img src="[image_path](https://github.com/Issaimaru/Issaimaru/assets/80198387/0c7e0bec-939b-4d69-8962-8463aeaaf279)" width="10px">
+
 ### 所属
 
 🔭National Institute of Technology, Toyama College E4<br>
