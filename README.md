@@ -22,7 +22,7 @@
  
 # My Status
 
-![Issaimaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&show_icons=true&theme=vue-dark)         ]
+![Issaimaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&show_icons=true&theme=vue-dark)         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issaimaru&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
