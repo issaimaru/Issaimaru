@@ -16,6 +16,9 @@
 ### 2020 ~ 2023 NHK Robocon / Kosen Robocon
 - Mechatech (National Institute of Technology, Toyama College)
   - In charge of **circuit** and **control**
+ 
+# Blog
+https://issaimaru.github.io/blog/
 
  # Contact
 <a href="https://twitter.com/TakenMaker" target="blank"><img align="center" src="https://github.com/Issaimaru/Issaimaru/assets/80198387/6f757764-5a74-46c0-9a39-b830d1950fbf" alt="TakenMaker" height="40" width="40" /></a>
