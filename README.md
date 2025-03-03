@@ -9,9 +9,6 @@
     </h1>
   </div>
 
-# About 
-竹内一晴 / Issei Takeuchi <br>
-
 # History
 ### 2020 ~ 2023 NHK Robocon / Kosen Robocon
 - Mechatech (National Institute of Technology, Toyama College)
