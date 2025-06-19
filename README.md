@@ -1,4 +1,6 @@
 <!-- --------------------------------- :) ---------------------------------- -->
+
+<!--
 <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
@@ -9,6 +11,7 @@
     </h1>
   </div>
 
+
 # History
 ### 2020 ~ 2023 NHK Robocon / Kosen Robocon
 - Mechatech (National Institute of Technology, Toyama College)
@@ -16,19 +19,9 @@
  
 # Blog
 https://issaimaru.github.io/
-<!-- --------------------------------- 
- # Contact
-<a href="https://twitter.com/TakenMaker" target="blank"><img align="center" src="https://github.com/Issaimaru/Issaimaru/assets/80198387/6f757764-5a74-46c0-9a39-b830d1950fbf" alt="TakenMaker" height="40" width="40" /></a>
- ---------------------------------- -->
-# My Status
+-->
 
-![Issaimaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=issaimaru&show_icons=true&theme=vue-dark)         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issaimaru&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+![Metrics](github-metrics.svg)
 
 
 
