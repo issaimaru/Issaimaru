@@ -13,7 +13,6 @@
 <!--
 # Blog
 https://issaimaru.github.io/
-
 -->
 
 ![Metrics](github-metrics.svg)
