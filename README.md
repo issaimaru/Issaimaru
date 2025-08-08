@@ -11,7 +11,7 @@
     </h1>
   </div>
 <!-- 
-test
+[metrics](https://github.com/lowlighter/metrics)
 -->
 
 ![Metrics](github-metrics.svg)
