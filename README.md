@@ -21,6 +21,13 @@
 - Mechatech (National Institute of Technology, Toyama College)
   - In charge of **circuit** and **control**
 
+ ### 2025 ~ NHK Robocon / Daigaku Robocon
+ - Maquinista (Institute of Science Tokyo)
+    - In charge of **circuit**
+
+ ### 2025 ~ Isshiki Lab
+ 
+
 
 <!--
 **Issaimaru/Issaimaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
