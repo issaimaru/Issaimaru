@@ -21,7 +21,7 @@
 - Mechatech (National Institute of Technology, Toyama College)
   - In charge of **circuit** and **control**
 
- ### 2025 ~ NHK Robocon / Daigaku Robocon
+ ### 2025 ~ NHK Robocon / Gakusei Robocon
  - Maquinista (Institute of Science Tokyo)
     - In charge of **circuit**
 
