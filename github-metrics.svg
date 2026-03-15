@@ -21,21 +21,21 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.40182858725706" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="127.40182858725706" y="0" width="102.67931693920693" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="230.08114552646398" y="0" width="67.90067845310607" height="8" fill="#b2b7f8"/>
-                    <rect mask="url(#languages-bar)" x="297.9818239795701" y="0" width="48.08280710840815" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="346.0646310879782" y="0" width="42.16132583882437" height="8" fill="#e4cc98"/>
-                    <rect mask="url(#languages-bar)" x="388.22595692680255" y="0" width="40.92526153588094" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.1512184626835" y="0" width="20.72542537133109" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.87664383401466" y="0" width="10.1233561659854" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="366.67640756552856" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="366.67640756552856" y="0" width="27.0911192545547" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="393.7675268200833" y="0" width="26.675221656870562" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.44274847695385" y="0" width="16.53311471669338" height="8" fill="#e4cc98"/>
+                    <rect mask="url(#languages-bar)" x="436.97586319364717" y="0" width="9.236561174601624" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.21242436824883" y="0" width="7.861618414051238" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.07404278230007" y="0" width="3.9812912519923356" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.0553340342924" y="0" width="1.9446659657075984" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C++
+                        Verilog
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -45,21 +45,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Verilog
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Makefile
+                        C++
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e4cc98" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Tcl
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Makefile
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
